@@ -33,13 +33,17 @@ The following EXTRA features are implemented:
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDU3M2M4YjZlN2RlN2ZmYTdkMjlhMzU2MGU2NjI4YjkxNWI1YTllYSZjdD1n/k4Q7luHTjruRSEjkSZ/giphy.gif
+Gif 1
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWY5ZGFhNTZlZGU3OGQ4NzRlOWZiMGRiYTI0YjFhOWFiMzRjMWUxOSZjdD1n/JbecKdIHkLirbVVcpZ/giphy.gif
+
+Gif 2
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdlMDFjNTI2OWJhMGVkNjdlYTM4MTA5NjZmMjE3ZGI5NWZiZmY4NiZjdD1n/rO5yYcgGitNORQ0zEM/giphy.gif
 
 GIF created with Giphy
 
 ## Notes
 
-The gif would only be 30s long
+The gif would only be 30s long, so you can play the two links to view the second part of the app.
 
 ## License
 
