@@ -34,10 +34,10 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 Gif 1
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWY5ZGFhNTZlZGU3OGQ4NzRlOWZiMGRiYTI0YjFhOWFiMzRjMWUxOSZjdD1n/JbecKdIHkLirbVVcpZ/giphy.gif
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjFmMjUyYmZiZTQzMjg5NWMzNGU2MzU1Y2UyNTIwNjNiNzNjMWU4MCZjdD1n/bIV4Ev03aBcUhvxgbI/giphy.gif
 
 Gif 2
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdlMDFjNTI2OWJhMGVkNjdlYTM4MTA5NjZmMjE3ZGI5NWZiZmY4NiZjdD1n/rO5yYcgGitNORQ0zEM/giphy.gif
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGQwZjk0N2Y1ZWUxZjdmZmZlZDM4ZjBjOGZjYzk0Njg0Y2E1ZjIzMyZjdD1n/HFHoX6iNTbo6YE0Yey/giphy.gif
 
 GIF created with Giphy
 
